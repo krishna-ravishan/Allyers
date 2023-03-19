@@ -1,6 +1,6 @@
 # Allyers
 
-URL to Website: [To see API in Use check out CHAT BUDDY]
+URL to Website: [To see API in Use check out CHAT BUDDY] [First Press SUBMIT button after entering prompt, then after content is generated press GENERATE VOICE to convert text to speech]
 
 https://allyers-hackitup.netlify.app/
 
